@@ -1,8 +1,11 @@
 import React from 'react';
-//first commit 
+import Header from './components/Header';
+// first commit
 class App extends React.Component {
   render() {
-    return (<p>Sistema Solar</p>);
+    return (
+      <Header />
+    );
   }
 }
 
