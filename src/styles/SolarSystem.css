@@ -1,0 +1,10 @@
+.carroseur {
+  display: flex;
+  justify-content: center;
+}
+
+.carroseur button {
+  align-self: center;
+  height: 50px;
+  width: 100px;
+}

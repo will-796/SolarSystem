@@ -1,0 +1,6 @@
+.missions {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 32px;
+}
